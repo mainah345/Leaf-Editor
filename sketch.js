@@ -1,7 +1,7 @@
 var leaf;
 var data = {
   length:{min:0,max:500,start:250},
-  detail:{min:1,max:25,start:15},
+  detail:{min:10,max:25,start:15},
   widthScale:{min:0,max:2,start:0.65},
   curveHeight:{min:0,max:100,start:50},
   bendHeight:{min:0,max:100,start:50},
